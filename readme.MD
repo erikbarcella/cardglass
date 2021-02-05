@@ -2,4 +2,4 @@
 
 ## Cards of apresentation in your website , with CSS and HTML  
 
-<img src='cardglass.gif'>
+<img src='glasscard.gif'>
